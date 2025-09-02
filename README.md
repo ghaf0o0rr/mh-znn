@@ -15,3 +15,4 @@ All scripts are **CPU-only NumPy**, save outputs in `figures/`, and print summar
 ```bash
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
+
